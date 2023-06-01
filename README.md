@@ -4,7 +4,7 @@ see how quick we can get up running in an environment
 
 ### Installing
 * Follow instructions to install the relevant build here:
-  https://platform.activestate.com/danielreed-org/Python-3.10.11-Windows-Test/distributions
+https://platform.activestate.com/danielreed-org/Python-3.10.11-Flask-Matplotlib-Test
 
 * Clone the repo
 ```commandline
